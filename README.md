@@ -1,4 +1,4 @@
-# P2PApp
+# P2PApp ( In Progress )
 
 Kind of SNS Service, But ain't SNS. 
 
